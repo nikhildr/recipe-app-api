@@ -1,6 +1,0 @@
-[flake8]
-exculde =
-  migrations
-  __pycache__,
-  manage.py,
-  settings.py
