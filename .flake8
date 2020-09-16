@@ -1,0 +1,3 @@
+[flake8]
+exculde =migrations,__pycache__,manage.py,settings.py,tests/*
+max-line-length=200
