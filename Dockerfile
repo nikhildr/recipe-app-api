@@ -1,4 +1,4 @@
-FROM python:3.6-alpine
+FROM python:3.7-alpine
 MAINTAINER nikilkumar.1988@gmail.com
 
 ENV PYTHONUNBUFFERED 1
